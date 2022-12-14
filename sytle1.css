@@ -334,6 +334,13 @@ h3{
    
 }
 
+@media (min-width : 1245px)
+{ 
+    html {index.html}
+}
+    
+    
+
 /* campus */
 .campus{
     background: var(--color-bg1);
@@ -517,4 +524,4 @@ h3{
     background: #1f2641;
     height: 25rem;
 }
-/* 
+
